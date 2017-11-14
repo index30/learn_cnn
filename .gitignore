@@ -1,0 +1,12 @@
+pip-selfcheck.json
+
+bin/
+include/
+lib/
+share/
+MNIST_data/
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.Python
+.DS_Store
