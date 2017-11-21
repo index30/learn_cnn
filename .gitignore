@@ -5,6 +5,7 @@ include/
 lib/
 share/
 MNIST_data/
+Problem/
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
